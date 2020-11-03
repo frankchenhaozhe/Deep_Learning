@@ -8,20 +8,20 @@ A series of online courses offered by [deeplearning.ai](https://www.deeplearning
 ### 1. Neural Network and Deep Learning
 
 * Week 1
-	* [Quiz 1](https://github.com/frankchenhaozhe/deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/week1%20quiz.md)
+	* [Quiz 1](https://github.com/frankchenhaozhe/Deep_Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/week1%20quiz.md)
 
 * Week 2
-	* [Quiz 2](https://github.com/frankchenhaozhe/deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/week2%20quiz.md)
-	* [Logistic Regression as a Neural Network](https://github.com/frankchenhaozhe/deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20as%20a%20Neural%20Network)
+	* [Quiz 2](https://github.com/frankchenhaozhe/Deep_Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/week2%20quiz.md)
+	* [Logistic Regression as a Neural Network](https://github.com/frankchenhaozhe/Deep_Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20as%20a%20Neural%20Network)
 
 * Week 3
-	* [Quiz 3](https://github.com/frankchenhaozhe/deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/week3%20quiz.md)
-	* [Shallow Neural Networks](https://github.com/frankchenhaozhe/deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer)
+	* [Quiz 3](https://github.com/frankchenhaozhe/Deep_Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/week3%20quiz.md)
+	* [Shallow Neural Networks](https://github.com/frankchenhaozhe/Deep_Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer)
 
 * Week 4
-	* [Quiz 4](https://github.com/frankchenhaozhe/deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/week4%20quiz.md)
-	* [Building your Deep Neural Network - Step by Step](https://github.com/frankchenhaozhe/deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
-	* [Deep Neural Network Application-Image Classification](https://github.com/frankchenhaozhe/deeplearning.ai/tree/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20Application-Image%20Classification)
+	* [Quiz 4](https://github.com/frankchenhaozhe/Deep_Learning/blob/main/Neural%20Networks%20and%20Deep%20Learning/week4%20quiz.md)
+	* [Building your Deep Neural Network - Step by Step](https://github.com/frankchenhaozhe/Deep_Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
+	* [Deep Neural Network Application-Image Classification](https://github.com/frankchenhaozhe/Deep_Learning/tree/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20Application-Image%20Classification)
 
 ### 2. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
 * Week 1
